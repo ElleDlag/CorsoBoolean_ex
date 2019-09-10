@@ -1,0 +1,19 @@
+header,footer{
+  height:280px;
+  background:lightblue
+}
+.space_big{
+  height: 50px;
+}
+
+.lang_extra{
+  color:#3F74E8;
+}
+
+footer{
+  text-align: center;
+  height:100px;
+}
+a{
+  line-height: 100px;
+}
